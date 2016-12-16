@@ -16,4 +16,11 @@
         android:id="@+id/image_view"
         android:src="@mipmap/ic_launcher"
         />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/image_view"
+        android:text="demo"
+        android:id="@+id/button"
+        />
 </RelativeLayout>
